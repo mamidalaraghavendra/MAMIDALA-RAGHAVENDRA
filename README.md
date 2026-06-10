@@ -27,5 +27,5 @@ Data Analyst | Python | SQL | Power BI | Tableau
 
 ## Connect With Me
 
-LinkedIn: linkedin.com/in/raghavendra-mamidala-225b73274
+[LinkedIn:](https://www.linkedin.com/in/raghavendra-mamidala-dataanalyst/)
 Email: raghavendramamidala148@gmail.com
