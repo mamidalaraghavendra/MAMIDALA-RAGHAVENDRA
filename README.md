@@ -1,12 +1,31 @@
-Hi, I'm Raghavendra 
+# Hi, I'm Raghavendra 👋
 
-Data Analyst | Python | SQL | Power BI 
+Data Analyst | Python | SQL | Power BI | Tableau
 
-🔹 Skilled in Data Analysis 
-🔹 Experienced with Python, Pandas, NumPy, SQL
-🔹 Passionate about solving real-world problems with data
+## Skills
 
-Projects
-- Retail Sales Analysis
-- Recruitment Transcript Analysis
-- YOLOv8 Object Detection
+- Python
+- SQL
+- Power BI
+- Tableau
+- Pandas
+- NumPy
+- Excel
+
+## Projects
+
+- IPL Sponsorship ROI Analysis
+- Customer Churn Analysis
+- Power BI Dashboards
+- SQL Analytics Projects
+
+## Certifications
+
+- Data Science - 360DigiTMG
+- Deloitte Data Analytics Job Simulation
+- Tata Data Visualization
+
+## Connect With Me
+
+LinkedIn: linkedin.com/in/raghavendra-mamidala-225b73274
+Email: raghavendramamidala148@gmail.com
